@@ -2,7 +2,7 @@
 a simple bot to help you learn new chess openings
 
 To Do:
-- add subdir of chess openings
+- ~~add subdir of chess openings~~
 - clean up the data to use only relevant fields
 - create chessboard
 - create corrospnding pieces
