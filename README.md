@@ -9,3 +9,4 @@ To Do:
 - chess logic - how they move
 - allow moves made based on openings one by one
 - allow user input
+- learn random chess openings / learn specific chess openings
