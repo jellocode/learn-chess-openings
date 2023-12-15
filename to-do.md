@@ -10,7 +10,20 @@
 - allow moves made based on openings one by one
 - allow user input
 
-### main
+### chess-board.py
+- ~~setting up game window~~
+- defining fonts and clock
+- defining game variables and images
+- defining chess piece movement functions
+- create chessboard
+- drawing chess pieces
+- add pieces
+- drag and drop pieces
+
+### chess-bot.py
+- create models trained on each opening (a, b, c, d, e)
+
+### main.py
 - option - learn random chess openings / learn specific chess openings
 - option - variations
 - show clip of opening
@@ -24,11 +37,6 @@ using database
 
 mutiple models - each for each opening
 stockfish for analysis
-
-### chessboard
-- create chessboard
-- add pieces
-- drag and drop pieces
 
 ### references
 eco code break down - 
