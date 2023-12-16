@@ -4,7 +4,9 @@ pygame.init()
 
 # creating game window
 display = pygame.display
-display.set_mode((600,600))
+surface = display.set_mode((600,600))
+surface.fill((215,200,250))
+display.flip()
 
 running = True
 while running: 

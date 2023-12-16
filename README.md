@@ -1,5 +1,5 @@
 # learn-chess-openings
-a simple bot to help you learn new chess openings
+a personal assistant to help you learn new chess openings and mainlines
 
 ## How it works
 - select learning type - specific opening / random

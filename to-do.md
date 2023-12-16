@@ -31,6 +31,7 @@
 - play as
 - highlight next moves according to dataset
 - allow user input
+- use user input as testing data - unsupervised
 
 create model that is grandmaster at one opening - get all famous grandmaster and chess player moves on that specific opening
 using database
