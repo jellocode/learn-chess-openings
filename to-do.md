@@ -3,7 +3,7 @@
 ### overview
 - ~~add subdir of chess openings~~
 - clean up the data to use only relevant fields
-- create chessboard
+- ~~create chessboard~~
 - create corrospnding pieces
 - chess logic - how pieces move
 - create chess bot - model trained on same dataset
